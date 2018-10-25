@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lyric: MyText
+  arranger: MyText
+  lyricist: MyText
+  composer: MyText
+  singer: MyText
+  pronounce: MyText
+  title: MyText
+
+two:
+  lyric: MyText
+  arranger: MyText
+  lyricist: MyText
+  composer: MyText
+  singer: MyText
+  pronounce: MyText
+  title: MyText
